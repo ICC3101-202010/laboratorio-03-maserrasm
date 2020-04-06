@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 
+
+//Lab 3 POO Manuel Serra SM
+//RUT 199578057
 namespace Lab3MSSM
 {
     class Persona
@@ -466,7 +469,7 @@ namespace Lab3MSSM
                     }
                 }
                 // Opcion para terminar programa si asi lo deseo. 
-                if (userChoice == 6)
+                if (userChoice == 5)
                 {
                     Environment.Exit(1);
                 }
